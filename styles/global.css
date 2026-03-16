@@ -17,7 +17,7 @@
   --text: 16px/1.5 var(--font-family) ;
   --text-lg: bold 32px/125% var(--font-family) ;
   --text-md: 14px/170% var(--font-family);
-  --text-sm: ;
+  --text-sm: 12px/170% var(--font-family);
 }
 
  body {
